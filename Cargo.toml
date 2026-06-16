@@ -1,5 +1,5 @@
 [workspace]
-members = ["modules/group","modules/organization", "raffle_cli", "raffle_server"]
+members = ["modules/group","modules/organization", "raffle"]
 resolver = "2"
 
 [workspace.dependencies]
